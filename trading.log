@@ -1,0 +1,215 @@
+2026-07-15 10:01:33,936 - trading_engine - INFO - Starting Trading Engine...
+2026-07-15 10:01:34,392 - trading_engine - WARNING - No data for NSE:RELIANCE-EQ
+2026-07-15 10:01:34,449 - trading_engine - WARNING - No data for NSE:TCS-EQ
+2026-07-15 10:02:34,508 - trading_engine - WARNING - No data for NSE:RELIANCE-EQ
+2026-07-15 10:02:34,569 - trading_engine - WARNING - No data for NSE:TCS-EQ
+2026-07-15 10:03:34,617 - trading_engine - WARNING - No data for NSE:RELIANCE-EQ
+2026-07-15 10:03:34,671 - trading_engine - WARNING - No data for NSE:TCS-EQ
+2026-07-15 10:04:03,177 - trading_engine - INFO - Trading engine stopped by user
+2026-07-15 10:04:07,145 - trading_engine - INFO - Starting Trading Engine...
+2026-07-15 10:04:07,145 - data_fetcher - INFO - Requesting: NSE:RELIANCE-EQ | 5min | 30 days
+2026-07-15 10:04:07,682 - data_fetcher - INFO - Fyers response for NSE:RELIANCE-EQ: {'code': -50, 'data': {'date_format': 'date timestamps (YYYY-MM-DD) needed for range_from and range_to since date_format is 1'}, 'message': 'Invalid input', 's': 'error'}
+2026-07-15 10:04:07,682 - data_fetcher - ERROR - API Error for NSE:RELIANCE-EQ: Code=-50, Message=Invalid input
+2026-07-15 10:04:07,683 - trading_engine - WARNING - No data for NSE:RELIANCE-EQ
+2026-07-15 10:04:07,683 - data_fetcher - INFO - Requesting: NSE:TCS-EQ | 5min | 30 days
+2026-07-15 10:04:07,734 - data_fetcher - INFO - Fyers response for NSE:TCS-EQ: {'code': -50, 'data': {'date_format': 'date timestamps (YYYY-MM-DD) needed for range_from and range_to since date_format is 1'}, 'message': 'Invalid input', 's': 'error'}
+2026-07-15 10:04:07,734 - data_fetcher - ERROR - API Error for NSE:TCS-EQ: Code=-50, Message=Invalid input
+2026-07-15 10:04:07,735 - trading_engine - WARNING - No data for NSE:TCS-EQ
+2026-07-15 10:05:07,736 - data_fetcher - INFO - Requesting: NSE:RELIANCE-EQ | 5min | 30 days
+2026-07-15 10:05:07,787 - data_fetcher - INFO - Fyers response for NSE:RELIANCE-EQ: {'code': -50, 'data': {'date_format': 'date timestamps (YYYY-MM-DD) needed for range_from and range_to since date_format is 1'}, 'message': 'Invalid input', 's': 'error'}
+2026-07-15 10:05:07,787 - data_fetcher - ERROR - API Error for NSE:RELIANCE-EQ: Code=-50, Message=Invalid input
+2026-07-15 10:05:07,787 - trading_engine - WARNING - No data for NSE:RELIANCE-EQ
+2026-07-15 10:05:07,788 - data_fetcher - INFO - Requesting: NSE:TCS-EQ | 5min | 30 days
+2026-07-15 10:05:07,841 - data_fetcher - INFO - Fyers response for NSE:TCS-EQ: {'code': -50, 'data': {'date_format': 'date timestamps (YYYY-MM-DD) needed for range_from and range_to since date_format is 1'}, 'message': 'Invalid input', 's': 'error'}
+2026-07-15 10:05:07,841 - data_fetcher - ERROR - API Error for NSE:TCS-EQ: Code=-50, Message=Invalid input
+2026-07-15 10:05:07,841 - trading_engine - WARNING - No data for NSE:TCS-EQ
+2026-07-15 10:05:48,148 - trading_engine - INFO - Trading engine stopped by user
+2026-07-15 10:05:51,668 - trading_engine - INFO - Starting Trading Engine...
+2026-07-15 10:05:51,668 - data_fetcher - INFO - Requesting: NSE:RELIANCE-EQ | 5min | 2026-06-15 to 2026-07-15
+2026-07-15 10:05:52,126 - data_fetcher - INFO - Got 1586 candles for NSE:RELIANCE-EQ
+2026-07-15 10:05:52,602 - trading_engine - ERROR - Error processing NSE:RELIANCE-EQ: name 'np' is not defined
+2026-07-15 10:05:52,602 - data_fetcher - INFO - Requesting: NSE:TCS-EQ | 5min | 2026-06-15 to 2026-07-15
+2026-07-15 10:05:52,698 - data_fetcher - INFO - Got 1586 candles for NSE:TCS-EQ
+2026-07-15 10:05:53,148 - trading_engine - ERROR - Error processing NSE:TCS-EQ: name 'np' is not defined
+2026-07-15 10:06:53,149 - data_fetcher - INFO - Requesting: NSE:RELIANCE-EQ | 5min | 2026-06-15 to 2026-07-15
+2026-07-15 10:06:53,257 - data_fetcher - INFO - Got 1586 candles for NSE:RELIANCE-EQ
+2026-07-15 10:06:53,779 - trading_engine - ERROR - Error processing NSE:RELIANCE-EQ: name 'np' is not defined
+2026-07-15 10:06:53,779 - data_fetcher - INFO - Requesting: NSE:TCS-EQ | 5min | 2026-06-15 to 2026-07-15
+2026-07-15 10:06:53,864 - data_fetcher - INFO - Got 1586 candles for NSE:TCS-EQ
+2026-07-15 10:06:54,418 - trading_engine - ERROR - Error processing NSE:TCS-EQ: name 'np' is not defined
+2026-07-15 10:07:23,100 - trading_engine - INFO - Trading engine stopped by user
+2026-07-15 10:07:27,090 - trading_engine - INFO - Starting Trading Engine...
+2026-07-15 10:07:27,090 - data_fetcher - INFO - Requesting: NSE:RELIANCE-EQ | 5min | 2026-06-15 to 2026-07-15
+2026-07-15 10:07:27,529 - data_fetcher - INFO - Got 1586 candles for NSE:RELIANCE-EQ
+2026-07-15 10:07:28,348 - trading_engine - INFO - NSE:RELIANCE-EQ - Signal: 0.0, Price: 1301.5
+2026-07-15 10:07:28,402 - data_fetcher - INFO - Requesting: NSE:TCS-EQ | 5min | 2026-06-15 to 2026-07-15
+2026-07-15 10:07:28,597 - data_fetcher - INFO - Got 1586 candles for NSE:TCS-EQ
+2026-07-15 10:07:29,391 - trading_engine - INFO - NSE:TCS-EQ - Signal: -1.0, Price: 2179.9
+2026-07-15 10:08:29,444 - data_fetcher - INFO - Requesting: NSE:RELIANCE-EQ | 5min | 2026-06-15 to 2026-07-15
+2026-07-15 10:08:29,540 - data_fetcher - INFO - Got 1586 candles for NSE:RELIANCE-EQ
+2026-07-15 10:08:30,705 - trading_engine - INFO - NSE:RELIANCE-EQ - Signal: 0.0, Price: 1302.2
+2026-07-15 10:08:30,773 - data_fetcher - INFO - Requesting: NSE:TCS-EQ | 5min | 2026-06-15 to 2026-07-15
+2026-07-15 10:08:30,858 - data_fetcher - INFO - Got 1586 candles for NSE:TCS-EQ
+2026-07-15 10:08:31,811 - trading_engine - INFO - NSE:TCS-EQ - Signal: -1.0, Price: 2179.6
+2026-07-15 10:09:31,864 - data_fetcher - INFO - Requesting: NSE:RELIANCE-EQ | 5min | 2026-06-15 to 2026-07-15
+2026-07-15 10:09:31,959 - data_fetcher - INFO - Got 1586 candles for NSE:RELIANCE-EQ
+2026-07-15 10:09:32,929 - trading_engine - INFO - NSE:RELIANCE-EQ - Signal: 0.0, Price: 1301.9
+2026-07-15 10:09:32,982 - data_fetcher - INFO - Requesting: NSE:TCS-EQ | 5min | 2026-06-15 to 2026-07-15
+2026-07-15 10:09:33,087 - data_fetcher - INFO - Got 1586 candles for NSE:TCS-EQ
+2026-07-15 10:09:34,124 - trading_engine - INFO - NSE:TCS-EQ - Signal: -1.0, Price: 2179.0
+2026-07-15 10:10:34,175 - data_fetcher - INFO - Requesting: NSE:RELIANCE-EQ | 5min | 2026-06-15 to 2026-07-15
+2026-07-15 10:10:34,278 - data_fetcher - INFO - Got 1587 candles for NSE:RELIANCE-EQ
+2026-07-15 10:10:35,093 - trading_engine - INFO - NSE:RELIANCE-EQ - Signal: 0.0, Price: 1301.7
+2026-07-15 10:10:35,147 - data_fetcher - INFO - Requesting: NSE:TCS-EQ | 5min | 2026-06-15 to 2026-07-15
+2026-07-15 10:10:35,235 - data_fetcher - INFO - Got 1587 candles for NSE:TCS-EQ
+2026-07-15 10:10:35,996 - trading_engine - INFO - NSE:TCS-EQ - Signal: 0.0, Price: 2178.5
+2026-07-15 10:11:17,805 - trading_engine - INFO - Trading engine stopped by user
+2026-07-15 10:11:21,033 - trading_engine - INFO - Starting Trading Engine...
+2026-07-15 10:11:21,033 - data_fetcher - INFO - Requesting: NSE:RELIANCE-EQ | 5min | 2026-06-15 to 2026-07-15
+2026-07-15 10:11:22,511 - data_fetcher - INFO - Got 1587 candles for NSE:RELIANCE-EQ
+2026-07-15 10:11:23,387 - trading_engine - INFO - NSE:RELIANCE-EQ - Signal: 0.0, Price: 1301.5
+2026-07-15 10:11:23,387 - trading_engine - INFO - [TEST MODE] Force buying NSE:RELIANCE-EQ
+2026-07-15 10:11:23,439 - trading_engine - INFO - BUY NSE:RELIANCE-EQ @ 1301.5, SL: 1275.47, TP: 1353.56
+2026-07-15 10:11:23,446 - trading_engine - INFO - Buy order placed: PAPER_1784090483
+2026-07-15 10:11:23,447 - data_fetcher - INFO - Requesting: NSE:TCS-EQ | 5min | 2026-06-15 to 2026-07-15
+2026-07-15 10:11:23,547 - data_fetcher - INFO - Got 1587 candles for NSE:TCS-EQ
+2026-07-15 10:11:24,269 - trading_engine - INFO - NSE:TCS-EQ - Signal: 0.0, Price: 2179.7
+2026-07-15 10:11:24,269 - trading_engine - INFO - [TEST MODE] Force buying NSE:TCS-EQ
+2026-07-15 10:11:24,322 - trading_engine - INFO - BUY NSE:TCS-EQ @ 2179.7, SL: 2136.1059999999998, TP: 2266.888
+2026-07-15 10:11:24,324 - trading_engine - INFO - Buy order placed: PAPER_1784090484
+2026-07-15 10:12:24,324 - data_fetcher - INFO - Requesting: NSE:RELIANCE-EQ | 5min | 2026-06-15 to 2026-07-15
+2026-07-15 10:12:24,495 - data_fetcher - INFO - Got 1587 candles for NSE:RELIANCE-EQ
+2026-07-15 10:12:25,443 - trading_engine - INFO - NSE:RELIANCE-EQ - Signal: 0.0, Price: 1301.2
+2026-07-15 10:12:25,492 - trading_engine - INFO - Position NSE:RELIANCE-EQ was closed (SL/TP hit)
+2026-07-15 10:12:25,492 - trading_engine - INFO - Position NSE:TCS-EQ was closed (SL/TP hit)
+2026-07-15 10:12:25,493 - data_fetcher - INFO - Requesting: NSE:TCS-EQ | 5min | 2026-06-15 to 2026-07-15
+2026-07-15 10:12:25,573 - data_fetcher - INFO - Got 1587 candles for NSE:TCS-EQ
+2026-07-15 10:12:26,638 - trading_engine - INFO - NSE:TCS-EQ - Signal: 0.0, Price: 2192.0
+2026-07-15 10:12:26,638 - trading_engine - INFO - [TEST MODE] Force buying NSE:TCS-EQ
+2026-07-15 10:12:26,691 - trading_engine - INFO - BUY NSE:TCS-EQ @ 2192.0, SL: 2148.16, TP: 2279.6800000000003
+2026-07-15 10:12:26,694 - trading_engine - INFO - Buy order placed: PAPER_1784090546
+2026-07-15 10:13:26,695 - data_fetcher - INFO - Requesting: NSE:RELIANCE-EQ | 5min | 2026-06-15 to 2026-07-15
+2026-07-15 10:13:26,784 - data_fetcher - INFO - Got 1587 candles for NSE:RELIANCE-EQ
+2026-07-15 10:13:27,586 - trading_engine - INFO - NSE:RELIANCE-EQ - Signal: 0.0, Price: 1301.9
+2026-07-15 10:13:27,587 - trading_engine - INFO - [TEST MODE] Force buying NSE:RELIANCE-EQ
+2026-07-15 10:13:27,636 - trading_engine - INFO - BUY NSE:RELIANCE-EQ @ 1301.9, SL: 1275.862, TP: 1353.976
+2026-07-15 10:13:27,638 - trading_engine - INFO - Buy order placed: PAPER_1784090607
+2026-07-15 10:13:27,638 - data_fetcher - INFO - Requesting: NSE:TCS-EQ | 5min | 2026-06-15 to 2026-07-15
+2026-07-15 10:13:27,722 - data_fetcher - INFO - Got 1587 candles for NSE:TCS-EQ
+2026-07-15 10:13:28,509 - trading_engine - INFO - NSE:TCS-EQ - Signal: 0.0, Price: 2196.0
+2026-07-15 10:13:28,562 - trading_engine - INFO - Position NSE:TCS-EQ was closed (SL/TP hit)
+2026-07-15 10:13:28,562 - trading_engine - INFO - Position NSE:RELIANCE-EQ was closed (SL/TP hit)
+2026-07-15 10:14:18,862 - trading_engine - INFO - Trading engine stopped by user
+2026-07-15 10:14:23,007 - trading_engine - INFO - Starting Trading Engine...
+2026-07-15 10:14:23,007 - data_fetcher - INFO - Requesting: NSE:RELIANCE-EQ | 5min | 2026-06-15 to 2026-07-15
+2026-07-15 10:14:23,489 - data_fetcher - INFO - Got 1587 candles for NSE:RELIANCE-EQ
+2026-07-15 10:14:24,257 - trading_engine - INFO - NSE:RELIANCE-EQ - Signal: 0.0, Price: 1303.1
+2026-07-15 10:14:24,257 - trading_engine - INFO - [TEST MODE] Force buying NSE:RELIANCE-EQ
+2026-07-15 10:14:24,308 - trading_engine - INFO - BUY NSE:RELIANCE-EQ @ 1303.1, SL: 1277.0379999999998, TP: 1355.224
+2026-07-15 10:14:24,313 - trading_engine - INFO - Buy order placed: PAPER_1784090664
+2026-07-15 10:14:24,313 - data_fetcher - INFO - Requesting: NSE:TCS-EQ | 5min | 2026-06-15 to 2026-07-15
+2026-07-15 10:14:24,404 - data_fetcher - INFO - Got 1587 candles for NSE:TCS-EQ
+2026-07-15 10:14:25,139 - trading_engine - INFO - NSE:TCS-EQ - Signal: 0.0, Price: 2196.9
+2026-07-15 10:14:25,139 - trading_engine - INFO - [TEST MODE] Force buying NSE:TCS-EQ
+2026-07-15 10:14:25,209 - trading_engine - INFO - BUY NSE:TCS-EQ @ 2196.9, SL: 2152.962, TP: 2284.7760000000003
+2026-07-15 10:14:25,211 - trading_engine - INFO - Buy order placed: PAPER_1784090665
+2026-07-15 10:15:25,212 - data_fetcher - INFO - Requesting: NSE:RELIANCE-EQ | 5min | 2026-06-15 to 2026-07-15
+2026-07-15 10:15:25,304 - data_fetcher - INFO - Got 1588 candles for NSE:RELIANCE-EQ
+2026-07-15 10:15:26,098 - trading_engine - INFO - NSE:RELIANCE-EQ - Signal: 0.0, Price: 1303.5
+2026-07-15 10:15:26,151 - trading_engine - INFO - Position NSE:RELIANCE-EQ was closed (SL/TP hit)
+2026-07-15 10:15:26,151 - trading_engine - INFO - Position NSE:TCS-EQ was closed (SL/TP hit)
+2026-07-15 10:15:26,151 - data_fetcher - INFO - Requesting: NSE:TCS-EQ | 5min | 2026-06-15 to 2026-07-15
+2026-07-15 10:15:26,241 - data_fetcher - INFO - Got 1588 candles for NSE:TCS-EQ
+2026-07-15 10:15:27,038 - trading_engine - INFO - NSE:TCS-EQ - Signal: 0.0, Price: 2195.8
+2026-07-15 10:15:27,038 - trading_engine - INFO - [TEST MODE] Force buying NSE:TCS-EQ
+2026-07-15 10:15:27,088 - trading_engine - INFO - BUY NSE:TCS-EQ @ 2195.8, SL: 2151.884, TP: 2283.632
+2026-07-15 10:15:27,090 - trading_engine - INFO - Buy order placed: PAPER_1784090727
+2026-07-15 10:15:31,972 - trading_engine - INFO - Trading engine stopped by user
+2026-07-15 10:15:35,285 - trading_engine - INFO - Starting Trading Engine...
+2026-07-15 10:15:35,285 - data_fetcher - INFO - Requesting: NSE:RELIANCE-EQ | 5min | 2026-06-15 to 2026-07-15
+2026-07-15 10:15:35,694 - data_fetcher - INFO - Got 1588 candles for NSE:RELIANCE-EQ
+2026-07-15 10:15:36,470 - trading_engine - INFO - NSE:RELIANCE-EQ - Signal: 0.0, Price: 1305.0
+2026-07-15 10:15:36,470 - trading_engine - INFO - [TEST MODE] Force buying NSE:RELIANCE-EQ
+2026-07-15 10:15:36,532 - trading_engine - INFO - BUY NSE:RELIANCE-EQ @ 1305.0, SL: 1278.8999999999999, TP: 1357.2
+2026-07-15 10:15:36,532 - order_manager - INFO -  [PAPER TRADE] Would place: 1 10 NSE:RELIANCE-EQ @ MARKET, SL=1278.8999999999999, TP=1357.2
+2026-07-15 10:15:36,533 - trading_engine - INFO - Buy order placed: PAPER_1784090736
+2026-07-15 10:15:36,533 - data_fetcher - INFO - Requesting: NSE:TCS-EQ | 5min | 2026-06-15 to 2026-07-15
+2026-07-15 10:15:36,650 - data_fetcher - INFO - Got 1588 candles for NSE:TCS-EQ
+2026-07-15 10:15:37,395 - trading_engine - INFO - NSE:TCS-EQ - Signal: 0.0, Price: 2197.0
+2026-07-15 10:15:37,395 - trading_engine - INFO - [TEST MODE] Force buying NSE:TCS-EQ
+2026-07-15 10:15:37,447 - trading_engine - INFO - BUY NSE:TCS-EQ @ 2197.0, SL: 2153.06, TP: 2284.88
+2026-07-15 10:15:37,448 - order_manager - INFO -  [PAPER TRADE] Would place: 1 5 NSE:TCS-EQ @ MARKET, SL=2153.06, TP=2284.88
+2026-07-15 10:15:37,448 - trading_engine - INFO - Buy order placed: PAPER_1784090737
+2026-07-15 10:16:19,419 - trading_engine - INFO - Trading engine stopped by user
+2026-07-15 10:16:29,561 - trading_engine - INFO - Starting Trading Engine...
+2026-07-15 10:16:29,561 - data_fetcher - INFO - Requesting: NSE:RELIANCE-EQ | 5min | 2026-06-15 to 2026-07-15
+2026-07-15 10:16:30,016 - data_fetcher - INFO - Got 1588 candles for NSE:RELIANCE-EQ
+2026-07-15 10:16:30,837 - trading_engine - INFO - NSE:RELIANCE-EQ - Signal: 0.0, Price: 1304.0
+2026-07-15 10:16:30,837 - trading_engine - INFO - [TEST MODE] Force buying NSE:RELIANCE-EQ
+2026-07-15 10:16:30,909 - trading_engine - INFO - BUY NSE:RELIANCE-EQ @ 1304.0, SL: 1277.92, TP: 1356.16
+2026-07-15 10:16:30,909 - order_manager - INFO -  [PAPER TRADE] Would place: 1 10 NSE:RELIANCE-EQ @ MARKET, SL=1277.92, TP=1356.16
+2026-07-15 10:16:30,910 - trading_engine - INFO - Buy order placed: PAPER_1784090790
+2026-07-15 10:16:30,910 - data_fetcher - INFO - Requesting: NSE:TCS-EQ | 5min | 2026-06-15 to 2026-07-15
+2026-07-15 10:16:31,113 - data_fetcher - INFO - Got 1588 candles for NSE:TCS-EQ
+2026-07-15 10:16:31,864 - trading_engine - INFO - NSE:TCS-EQ - Signal: 0.0, Price: 2195.8
+2026-07-15 10:16:31,865 - trading_engine - INFO - [TEST MODE] Force buying NSE:TCS-EQ
+2026-07-15 10:16:31,917 - trading_engine - INFO - BUY NSE:TCS-EQ @ 2195.8, SL: 2151.884, TP: 2283.632
+2026-07-15 10:16:31,918 - order_manager - INFO -  [PAPER TRADE] Would place: 1 5 NSE:TCS-EQ @ MARKET, SL=2151.884, TP=2283.632
+2026-07-15 10:16:31,918 - trading_engine - INFO - Buy order placed: PAPER_1784090791
+2026-07-15 10:17:31,919 - data_fetcher - INFO - Requesting: NSE:RELIANCE-EQ | 5min | 2026-06-15 to 2026-07-15
+2026-07-15 10:17:32,017 - data_fetcher - INFO - Got 1588 candles for NSE:RELIANCE-EQ
+2026-07-15 10:17:32,980 - trading_engine - INFO - NSE:RELIANCE-EQ - Signal: 0.0, Price: 1304.6
+2026-07-15 10:17:33,040 - trading_engine - INFO - Position NSE:RELIANCE-EQ was closed (SL/TP hit)
+2026-07-15 10:17:33,040 - trading_engine - INFO - Position NSE:TCS-EQ was closed (SL/TP hit)
+2026-07-15 10:17:33,040 - data_fetcher - INFO - Requesting: NSE:TCS-EQ | 5min | 2026-06-15 to 2026-07-15
+2026-07-15 10:17:33,144 - data_fetcher - INFO - Got 1588 candles for NSE:TCS-EQ
+2026-07-15 10:17:34,195 - trading_engine - INFO - NSE:TCS-EQ - Signal: 0.0, Price: 2201.3
+2026-07-15 10:17:34,196 - trading_engine - INFO - [TEST MODE] Force buying NSE:TCS-EQ
+2026-07-15 10:17:34,255 - trading_engine - INFO - BUY NSE:TCS-EQ @ 2201.3, SL: 2157.2740000000003, TP: 2289.3520000000003
+2026-07-15 10:17:34,256 - order_manager - INFO -  [PAPER TRADE] Would place: 1 5 NSE:TCS-EQ @ MARKET, SL=2157.2740000000003, TP=2289.3520000000003
+2026-07-15 10:17:34,256 - trading_engine - INFO - Buy order placed: PAPER_1784090854
+2026-07-15 10:18:34,257 - data_fetcher - INFO - Requesting: NSE:RELIANCE-EQ | 5min | 2026-06-15 to 2026-07-15
+2026-07-15 10:18:34,362 - data_fetcher - INFO - Got 1588 candles for NSE:RELIANCE-EQ
+2026-07-15 10:18:35,160 - trading_engine - INFO - NSE:RELIANCE-EQ - Signal: 0.0, Price: 1305.6
+2026-07-15 10:18:35,160 - trading_engine - INFO - [TEST MODE] Force buying NSE:RELIANCE-EQ
+2026-07-15 10:18:35,240 - trading_engine - INFO - BUY NSE:RELIANCE-EQ @ 1305.6, SL: 1279.4879999999998, TP: 1357.8239999999998
+2026-07-15 10:18:35,240 - order_manager - INFO -  [PAPER TRADE] Would place: 1 10 NSE:RELIANCE-EQ @ MARKET, SL=1279.4879999999998, TP=1357.8239999999998
+2026-07-15 10:18:35,241 - trading_engine - INFO - Buy order placed: PAPER_1784090915
+2026-07-15 10:18:35,241 - data_fetcher - INFO - Requesting: NSE:TCS-EQ | 5min | 2026-06-15 to 2026-07-15
+2026-07-15 10:18:35,349 - data_fetcher - INFO - Got 1588 candles for NSE:TCS-EQ
+2026-07-15 10:18:36,129 - trading_engine - INFO - NSE:TCS-EQ - Signal: 0.0, Price: 2200.0
+2026-07-15 10:18:36,186 - trading_engine - INFO - Position NSE:TCS-EQ was closed (SL/TP hit)
+2026-07-15 10:18:36,186 - trading_engine - INFO - Position NSE:RELIANCE-EQ was closed (SL/TP hit)
+2026-07-15 10:18:59,777 - trading_engine - INFO - Trading engine stopped by user
+2026-07-15 10:19:05,872 - trading_engine - INFO - Starting Trading Engine...
+2026-07-15 10:19:05,873 - data_fetcher - INFO - Requesting: NSE:RELIANCE-EQ | 5min | 2026-06-15 to 2026-07-15
+2026-07-15 10:19:06,327 - data_fetcher - INFO - Got 1588 candles for NSE:RELIANCE-EQ
+2026-07-15 10:19:07,118 - trading_engine - INFO - NSE:RELIANCE-EQ - Signal: 0.0, Price: 1306.4
+2026-07-15 10:19:07,174 - data_fetcher - INFO - Requesting: NSE:TCS-EQ | 5min | 2026-06-15 to 2026-07-15
+2026-07-15 10:19:07,282 - data_fetcher - INFO - Got 1588 candles for NSE:TCS-EQ
+2026-07-15 10:19:08,027 - trading_engine - INFO - NSE:TCS-EQ - Signal: 0.0, Price: 2200.0
+2026-07-15 10:20:08,086 - data_fetcher - INFO - Requesting: NSE:RELIANCE-EQ | 5min | 2026-06-15 to 2026-07-15
+2026-07-15 10:20:08,208 - data_fetcher - INFO - Got 1589 candles for NSE:RELIANCE-EQ
+2026-07-15 10:20:09,199 - trading_engine - INFO - NSE:RELIANCE-EQ - Signal: 0.0, Price: 1305.5
+2026-07-15 10:20:09,291 - data_fetcher - INFO - Requesting: NSE:TCS-EQ | 5min | 2026-06-15 to 2026-07-15
+2026-07-15 10:20:09,387 - data_fetcher - INFO - Got 1589 candles for NSE:TCS-EQ
+2026-07-15 10:20:10,344 - trading_engine - INFO - NSE:TCS-EQ - Signal: 0.0, Price: 2197.2
+2026-07-15 10:21:10,403 - data_fetcher - INFO - Requesting: NSE:RELIANCE-EQ | 5min | 2026-06-15 to 2026-07-15
+2026-07-15 10:21:10,539 - data_fetcher - INFO - Got 1589 candles for NSE:RELIANCE-EQ
+2026-07-15 10:21:11,293 - trading_engine - INFO - NSE:RELIANCE-EQ - Signal: 0.0, Price: 1305.0
+2026-07-15 10:21:11,368 - data_fetcher - INFO - Requesting: NSE:TCS-EQ | 5min | 2026-06-15 to 2026-07-15
+2026-07-15 10:21:11,460 - data_fetcher - INFO - Got 1589 candles for NSE:TCS-EQ
+2026-07-15 10:21:12,196 - trading_engine - INFO - NSE:TCS-EQ - Signal: 0.0, Price: 2196.9
+2026-07-15 10:22:12,253 - data_fetcher - INFO - Requesting: NSE:RELIANCE-EQ | 5min | 2026-06-15 to 2026-07-15
+2026-07-15 10:22:12,347 - data_fetcher - INFO - Got 1589 candles for NSE:RELIANCE-EQ
+2026-07-15 10:22:13,304 - trading_engine - INFO - NSE:RELIANCE-EQ - Signal: 0.0, Price: 1304.6
+2026-07-15 10:22:13,393 - data_fetcher - INFO - Requesting: NSE:TCS-EQ | 5min | 2026-06-15 to 2026-07-15
+2026-07-15 10:22:13,507 - data_fetcher - INFO - Got 1589 candles for NSE:TCS-EQ
+2026-07-15 10:22:14,548 - trading_engine - INFO - NSE:TCS-EQ - Signal: 0.0, Price: 2190.8
+2026-07-15 10:23:14,605 - data_fetcher - INFO - Requesting: NSE:RELIANCE-EQ | 5min | 2026-06-15 to 2026-07-15
+2026-07-15 10:23:14,709 - data_fetcher - INFO - Got 1589 candles for NSE:RELIANCE-EQ
+2026-07-15 10:23:15,880 - trading_engine - INFO - NSE:RELIANCE-EQ - Signal: 0.0, Price: 1304.7
+2026-07-15 10:23:15,934 - data_fetcher - INFO - Requesting: NSE:TCS-EQ | 5min | 2026-06-15 to 2026-07-15
+2026-07-15 10:23:16,024 - data_fetcher - INFO - Got 1589 candles for NSE:TCS-EQ
+2026-07-15 10:23:16,865 - trading_engine - INFO - NSE:TCS-EQ - Signal: 0.0, Price: 2194.0
+2026-07-15 10:23:18,280 - trading_engine - INFO - Trading engine stopped by user

@@ -1,0 +1,46 @@
+2026-09-15 03:09:04,420 | INFO     | SMC Breakout Scanner v3.0.0 Started. Press Ctrl+C to stop.
+2026-09-15 03:09:04,423 | INFO     | CSV logging to: C:\Users\bnare\Desktop\new way\trade_logs
+2026-09-15 03:09:04,424 | INFO     | HTF confirmation: True (5-min)
+2026-09-15 03:09:04,425 | INFO     | MTF alignment: ['3', '5']
+2026-09-15 03:09:04,425 | INFO     | Dynamic R:R: True | Risk Guard: ON
+2026-09-15 03:09:04,458 | INFO     | Market closed. Sleeping 60s...
+2026-09-15 03:09:24,399 | INFO     | SMC Breakout Scanner v3.0.0 Started. Press Ctrl+C to stop.
+2026-09-15 03:09:24,401 | INFO     | CSV logging to: C:\Users\bnare\Desktop\new way\trade_logs
+2026-09-15 03:09:24,403 | INFO     | HTF confirmation: True (5-min)
+2026-09-15 03:09:24,404 | INFO     | MTF alignment: ['3', '5']
+2026-09-15 03:09:24,404 | INFO     | Dynamic R:R: True | Risk Guard: ON
+2026-09-15 03:09:24,416 | INFO     | Market closed. Sleeping 60s...
+2026-09-15 03:10:07,681 | INFO     | Shutdown signal received. Exiting gracefully...
+2026-09-15 03:10:24,417 | INFO     | Scanner stopped.
+2026-09-15 03:30:26,812 | INFO     | SMC Breakout Scanner v3.0.0 Started. Press Ctrl+C to stop.
+2026-09-15 03:30:26,815 | INFO     | CSV logging to: C:\Users\bnare\Desktop\new way\trade_logs
+2026-09-15 03:30:26,817 | INFO     | HTF confirmation: True (5-min)
+2026-09-15 03:30:26,819 | INFO     | MTF alignment: ['3', '5']
+2026-09-15 03:30:26,821 | INFO     | Dynamic R:R: True | Risk Guard: ON
+2026-09-15 03:30:26,861 | INFO     | Market closed. Sleeping 60s...
+2026-09-15 03:30:31,800 | INFO     | Shutdown signal received. Exiting gracefully...
+2026-09-15 03:31:26,134 | INFO     | Shutdown signal received. Exiting gracefully...
+2026-09-15 03:31:26,872 | INFO     | Scanner stopped.
+2026-09-15 09:40:30,675 | INFO     | SMC Breakout Scanner v3.0.0 Started. Press Ctrl+C to stop.
+2026-09-15 09:40:30,676 | INFO     | CSV logging to: C:\Users\bnare\Desktop\new way\trade_logs
+2026-09-15 09:40:30,676 | INFO     | HTF confirmation: True (5-min)
+2026-09-15 09:40:30,677 | INFO     | MTF alignment: ['3', '5']
+2026-09-15 09:40:30,677 | INFO     | Dynamic R:R: True | Risk Guard: ON
+2026-09-15 09:40:31,728 | WARNING  | Using minimal hardcoded holiday fallback. Create nse_holidays.json for accuracy.
+2026-09-15 09:40:31,729 | INFO     | --- New Scan Cycle v3 ---
+2026-09-15 09:40:32,243 | INFO     | Regime: neutral | ADX: 0.0 | VIX: 12.38 | Rec: trade
+2026-09-15 09:40:32,351 | ERROR    | Main loop error: can't subtract offset-naive and offset-aware datetimes
+Traceback (most recent call last):
+  File "c:\Users\bnare\Desktop\new way\smc_scanner_v3.py", line 1461, in run
+    self.run_once()
+    ~~~~~~~~~~~~~^^
+  File "c:\Users\bnare\Desktop\new way\smc_scanner_v3.py", line 1349, in run_once
+    trend_bias, spot, fut_price = self.get_trend_bias(now)
+                                  ~~~~~~~~~~~~~~~~~~~^^^^^
+  File "c:\Users\bnare\Desktop\new way\smc_scanner_v3.py", line 1261, in get_trend_bias
+    self.current_fut_symbol = FuturesHelper.get_futures_symbol(now, self.cfg.rollover_days_before_expiry)
+                              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\bnare\Desktop\new way\smc_scanner_v3.py", line 826, in get_futures_symbol
+    days_to_expiry = (expiry - now).days
+                      ~~~~~~~^~~~~
+TypeError: can't subtract offset-naive and offset-aware datetimes

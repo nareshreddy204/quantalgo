@@ -1,0 +1,22 @@
+kronos-fyers/
+├── config.yaml
+├── main.py
+├── requirements.txt
+├── fyers_auth.py
+├── data_fetcher.py
+├── indicators.py
+├── strategy.py
+├── order_manager.py
+├── risk_manager.py
+├── trading_engine.py
+├── websocket_handler.py
+├── backtester.py
+├── logs/
+│   └── trading.log
+└── tests/
+    ├── test_strategy.py
+    └── test_risk.py
+
+
+
+pip install fyers-apiv3 fyers-apiv3-websocket pandas numpy ta-lib

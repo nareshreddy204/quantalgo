@@ -1,0 +1,6 @@
+smartmoneyconcepts
+fyers-apiv3
+pandas
+numpy
+PyYAML
+requests

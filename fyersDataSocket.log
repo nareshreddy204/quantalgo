@@ -1,0 +1,15 @@
+{"level":"ERROR","location":"[<lambda>:1663] data_ws","message":"[WinError 10054] An existing connection was forcibly closed by the remote host","timestamp":"2026-09-18 13:56:28,811+0530","service":"FyersDataSocket"}
+{"level":"ERROR","location":"[<lambda>:1663] data_ws","message":"[Errno 11001] getaddrinfo failed","timestamp":"2026-09-18 13:56:33,818+0530","service":"FyersDataSocket"}
+{"level":"ERROR","location":"[<lambda>:1663] data_ws","message":"[Errno 11001] getaddrinfo failed","timestamp":"2026-09-18 13:56:38,823+0530","service":"FyersDataSocket"}
+{"level":"ERROR","location":"[<lambda>:1663] data_ws","message":"[Errno 11001] getaddrinfo failed","timestamp":"2026-09-18 13:56:43,828+0530","service":"FyersDataSocket"}
+{"level":"ERROR","location":"[<lambda>:1663] data_ws","message":"[Errno 11001] getaddrinfo failed","timestamp":"2026-09-18 13:56:48,837+0530","service":"FyersDataSocket"}
+{"level":"ERROR","location":"[<lambda>:1663] data_ws","message":"[Errno 11001] getaddrinfo failed","timestamp":"2026-09-18 13:56:53,841+0530","service":"FyersDataSocket"}
+{"level":"ERROR","location":"[access_token_to_hsmtoken:272] data_ws","message":{"type":"cn","code":-99,"message":"Token is expired","s":"error"},"timestamp":"2026-09-19 09:01:49,701+0530","service":"FyersDataSocket"}
+{"level":"ERROR","location":"[access_token_to_hsmtoken:272] data_ws","message":{"type":"cn","code":-99,"message":"Token is expired","s":"error"},"timestamp":"2026-09-19 09:02:59,074+0530","service":"FyersDataSocket"}
+{"level":"ERROR","location":"[access_token_to_hsmtoken:272] data_ws","message":{"type":"cn","code":-99,"message":"Token is expired","s":"error"},"timestamp":"2026-09-19 09:07:41,251+0530","service":"FyersDataSocket"}
+{"level":"ERROR","location":"[access_token_to_hsmtoken:272] data_ws","message":{"type":"cn","code":-99,"message":"Token is expired","s":"error"},"timestamp":"2026-09-19 09:58:59,469+0530","service":"FyersDataSocket"}
+{"level":"ERROR","location":"[access_token_to_hsmtoken:272] data_ws","message":{"type":"cn","code":-99,"message":"Token is expired","s":"error"},"timestamp":"2026-09-19 10:12:53,849+0530","service":"FyersDataSocket"}
+{"level":"ERROR","location":"[access_token_to_hsmtoken:272] data_ws","message":{"type":"cn","code":-99,"message":"Token is expired","s":"error"},"timestamp":"2026-09-19 10:16:34,988+0530","service":"FyersDataSocket"}
+{"level":"ERROR","location":"[access_token_to_hsmtoken:272] data_ws","message":{"type":"cn","code":-99,"message":"Token is expired","s":"error"},"timestamp":"2026-09-19 10:22:12,239+0530","service":"FyersDataSocket"}
+{"level":"ERROR","location":"[<lambda>:1663] data_ws","message":"[WinError 10054] An existing connection was forcibly closed by the remote host","timestamp":"2026-09-19 10:43:05,470+0530","service":"FyersDataSocket"}
+{"level":"ERROR","location":"[access_token_to_hsmtoken:272] data_ws","message":{"type":"cn","code":-99,"message":"Token is expired","s":"error"},"timestamp":"2026-09-22 13:35:15,748+0530","service":"FyersDataSocket"}

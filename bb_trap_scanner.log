@@ -1,0 +1,90 @@
+2026-09-15 04:17:05,529 | INFO     | Created new BB Trap log: trade_logs\bb_trap_signals_20260915.csv
+2026-09-15 04:17:05,531 | INFO     | BB Trap Scanner v1.0 Started. Press Ctrl+C to stop.
+2026-09-15 04:17:05,532 | INFO     | Symbols: 15
+2026-09-15 04:17:05,532 | INFO     | Timeframe: 60-min | BB(20,2)
+2026-09-15 04:17:05,532 | INFO     | CSV logging to: C:\Users\bnare\Desktop\new way\trade_logs
+2026-09-15 04:17:05,545 | INFO     | --- BB Trap Scan Cycle ---
+2026-09-15 04:17:05,551 | INFO     | Market closed. Sleeping...
+2026-09-15 04:17:05,552 | INFO     | Sleeping 300s until next scan...
+2026-09-15 04:18:30,484 | INFO     | Shutdown signal received. Exiting gracefully...
+2026-09-15 04:21:05,171 | INFO     | Shutdown signal received. Exiting gracefully...
+2026-09-15 04:21:16,929 | INFO     | BB Trap Scanner v1.0 Started. Press Ctrl+C to stop.
+2026-09-15 04:21:16,930 | INFO     | Symbols: 15
+2026-09-15 04:21:16,930 | INFO     | Timeframe: 60-min | BB(20,2)
+2026-09-15 04:21:16,930 | INFO     | CSV logging to: C:\Users\bnare\Desktop\new way\trade_logs
+2026-09-15 04:21:16,934 | INFO     | --- BB Trap Scan Cycle ---
+2026-09-15 04:21:19,394 | WARNING  | Fyers history error for NSE:MARUTI-EQ: request limit reached, attempt 1
+2026-09-15 04:21:19,456 | INFO     | No BB Trap patterns found across 15 symbols
+2026-09-15 04:21:19,457 | INFO     | Sleeping 300s until next scan...
+2026-09-15 04:23:12,089 | INFO     | Shutdown signal received. Exiting gracefully...
+2026-09-15 04:24:24,959 | INFO     | BB Trap Scanner v1.0 Started [LIVE MODE]. Press Ctrl+C to stop.
+2026-09-15 04:24:24,959 | INFO     | Symbols: 15
+2026-09-15 04:24:24,960 | INFO     | Timeframe: 60-min | BB(20,2)
+2026-09-15 04:24:24,960 | INFO     | CSV logging to: C:\Users\bnare\Desktop\new way\trade_logs
+2026-09-15 04:24:24,962 | INFO     | --- BB Trap Scan Cycle ---
+2026-09-15 04:24:24,963 | INFO     | Market closed. Use --now to force scan outside market hours.
+2026-09-15 04:24:24,963 | INFO     | Sleeping 300s until next scan...
+2026-09-15 04:25:21,460 | INFO     | BB Trap Scanner v1.0 Started [LIVE MODE]. Press Ctrl+C to stop.
+2026-09-15 04:25:21,482 | INFO     | Symbols: 15
+2026-09-15 04:25:21,482 | INFO     | Timeframe: 60-min | BB(20,2)
+2026-09-15 04:25:21,482 | INFO     | CSV logging to: C:\Users\bnare\Desktop\new way\trade_logs
+2026-09-15 04:25:21,487 | INFO     | --- BB Trap Scan Cycle ---
+2026-09-15 04:25:21,491 | INFO     | Market closed. Use --now to force scan outside market hours.
+2026-09-15 04:25:21,491 | INFO     | Sleeping 300s until next scan...
+2026-09-15 04:25:43,746 | INFO     | Shutdown signal received. Exiting gracefully...
+2026-09-15 04:26:16,783 | INFO     | BB Trap Scanner v1.0 Started. Press Ctrl+C to stop.
+2026-09-15 04:26:16,784 | INFO     | Symbols: 15
+2026-09-15 04:26:16,784 | INFO     | Timeframe: 60-min | BB(20,2)
+2026-09-15 04:26:16,784 | INFO     | CSV logging to: C:\Users\bnare\Desktop\new way\trade_logs
+2026-09-15 04:26:16,786 | INFO     | --- BB Trap Scan Cycle ---
+2026-09-15 04:26:16,787 | INFO     | Market closed. Sleeping...
+2026-09-15 04:26:16,787 | INFO     | Sleeping 300s until next scan...
+2026-09-15 04:27:23,229 | INFO     | Shutdown signal received. Exiting gracefully...
+2026-09-15 04:28:00,192 | INFO     | BB Trap Scanner v1.0 Started. Press Ctrl+C to stop.
+2026-09-15 04:28:00,193 | INFO     | Symbols: 15
+2026-09-15 04:28:00,193 | INFO     | Timeframe: 60-min | BB(20,2)
+2026-09-15 04:28:00,193 | INFO     | CSV logging to: C:\Users\bnare\Desktop\new way\trade_logs
+2026-09-15 04:28:00,196 | INFO     | --- BB Trap Scan Cycle ---
+2026-09-15 04:28:00,197 | INFO     | Market closed. Sleeping...
+2026-09-15 04:28:00,197 | INFO     | Sleeping 300s until next scan...
+2026-09-15 04:29:10,021 | INFO     | BB Trap Scanner v1.1 Started [FORCED MODE]. Press Ctrl+C to stop.
+2026-09-15 04:29:10,022 | INFO     | Symbols: 15
+2026-09-15 04:29:10,022 | INFO     | Timeframe: 60-min | BB(20,2)
+2026-09-15 04:29:10,022 | INFO     | CSV logging to: C:\Users\bnare\Desktop\new way\trade_logs
+2026-09-15 04:29:10,022 | INFO     | --now flag active: scanning outside market hours
+2026-09-15 04:29:10,026 | INFO     | --- BB Trap Scan Cycle ---
+2026-09-15 04:29:10,026 | INFO     | [FORCED SCAN] Running outside market hours.
+2026-09-15 04:29:12,449 | WARNING  | Fyers history error for NSE:MARUTI-EQ: request limit reached, attempt 1
+2026-09-15 04:29:12,548 | WARNING  | Fyers history error for NSE:BAJFINANCE-EQ: request limit reached, attempt 1
+2026-09-15 04:29:12,652 | INFO     | No BB Trap patterns found across 15 symbols
+2026-09-15 04:29:12,653 | INFO     | Sleeping 300s until next scan...
+2026-09-15 04:31:42,854 | INFO     | BB Trap Scanner v1.1 Started [LIVE MODE]. Press Ctrl+C to stop.
+2026-09-15 04:31:42,855 | INFO     | Symbols: 15
+2026-09-15 04:31:42,855 | INFO     | Timeframe: 60-min | BB(20,2)
+2026-09-15 04:31:42,855 | INFO     | CSV logging to: C:\Users\bnare\Desktop\new way\trade_logs
+2026-09-15 04:31:42,857 | INFO     | --- BB Trap Scan Cycle ---
+2026-09-15 04:31:42,858 | INFO     | Market closed. Use --now to scan outside hours.
+2026-09-15 04:31:42,858 | INFO     | Sleeping 300s until next scan...
+2026-09-15 04:31:59,894 | INFO     | Shutdown signal received. Exiting gracefully...
+2026-09-15 04:32:18,751 | INFO     | BB Trap Scanner v1.1 Started [FORCED MODE]. Press Ctrl+C to stop.
+2026-09-15 04:32:18,752 | INFO     | Symbols: 15
+2026-09-15 04:32:18,752 | INFO     | Timeframe: 60-min | BB(20,2)
+2026-09-15 04:32:18,752 | INFO     | CSV logging to: C:\Users\bnare\Desktop\new way\trade_logs
+2026-09-15 04:32:18,752 | INFO     | --now flag active: scanning outside market hours
+2026-09-15 04:32:18,755 | INFO     | --- BB Trap Scan Cycle ---
+2026-09-15 04:32:18,756 | INFO     | [FORCED SCAN] Running outside market hours.
+2026-09-15 04:32:20,854 | INFO     | No BB Trap patterns found across 15 symbols
+2026-09-15 04:32:20,855 | INFO     | Sleeping 300s until next scan...
+2026-09-15 04:34:12,654 | INFO     | Scanner stopped.
+2026-09-15 04:37:20,856 | INFO     | --- BB Trap Scan Cycle ---
+2026-09-15 04:37:20,856 | INFO     | [FORCED SCAN] Running outside market hours.
+2026-09-15 04:37:22,606 | INFO     | No BB Trap patterns found across 15 symbols
+2026-09-15 04:37:22,607 | INFO     | Sleeping 300s until next scan...
+2026-09-15 04:38:23,396 | INFO     | Shutdown signal received. Exiting gracefully...
+2026-09-15 10:57:49,746 | INFO     | BB Trap Scanner v1.0 Started. Press Ctrl+C to stop.
+2026-09-15 10:57:49,747 | INFO     | Symbols: 15
+2026-09-15 10:57:49,747 | INFO     | Timeframe: 60-min | BB(20,2)
+2026-09-15 10:57:49,747 | INFO     | CSV logging to: C:\Users\bnare\Desktop\new way\trade_logs
+2026-09-15 10:57:49,750 | INFO     | --- BB Trap Scan Cycle ---
+2026-09-15 10:57:51,833 | INFO     | No BB Trap patterns found across 15 symbols
+2026-09-15 10:57:51,834 | INFO     | Sleeping 300s until next scan...
